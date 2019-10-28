@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">First</string>
+    <string name="happy">Happy Birthday</string>
+    <string name="name">jade_m</string>
+    <string name="dollar">dollar</string>
+    <string name="euro">euro</string>
+    <string name="won">won</string>
+    <string name="conf">config</string>
+    <string name="label_open_first">Open_list</string>
+</resources>

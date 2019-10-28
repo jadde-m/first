@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="happy">生日快乐</string>
+    <string name="name">马玉鲲</string>
+    <string name="app_name">第一个</string>
+    <string name="conf">设置</string>
+    <string name="dollar">美元</string>
+    <string name="euro">欧元</string>
+    <string name="label_open_first">打开列表</string>
+    <string name="won">韩元</string>
+</resources>
